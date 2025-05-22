@@ -22,11 +22,14 @@ Project ini adalah aplikasi Android sederhana yang terintegrasi dengan **Firebas
 
 Tampilan antarmuka aplikasi:
 
-### 🖼️ Login Screen
-<img src="screenshots/login.png" alt="Login" width="300"/>
+<p align="center">
+  <img src="screenshots/login.png" alt="Login" width="230"/>
+  <img src="screenshots/register.png" alt="Register" width="230"/>
+  <img src="screenshots/home.png" alt="Home" width="230"/>
+</p>
 
-### 🖼️ Register Screen
-<img src="screenshots/register.png" alt="Register" width="300"/>
+Authentication Firebase:
 
-### 🖼️ Home Screen
-<img src="screenshots/home.png" alt="Home" width="300"/>
+<p align="center">
+  <img src="screenshots/authfirebase.png" alt="Login" width="690" align="center"/>
+</p>
