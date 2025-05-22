@@ -23,10 +23,10 @@ Project ini adalah aplikasi Android sederhana yang terintegrasi dengan **Firebas
 Tampilan antarmuka aplikasi:
 
 ### 🖼️ Login Screen
-![Login](screenshots/login.png)
+<img src="screenshots/login.png" alt="Login" width="300"/>
 
 ### 🖼️ Register Screen
-![Register](screenshots/register.png)
+<img src="screenshots/register.png" alt="Register" width="300"/>
 
 ### 🖼️ Home Screen
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home" width="300"/>
