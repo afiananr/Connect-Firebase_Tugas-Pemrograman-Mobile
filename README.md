@@ -18,9 +18,7 @@ Project ini adalah aplikasi Android sederhana yang terintegrasi dengan **Firebas
 - ConstraintLayout
 - Material Components
 
-## 📸 Screenshots
-
-Tampilan antarmuka aplikasi:
+## 📸 Tampilan Aplikasi
 
 <p align="center">
   <img src="screenshots/login.png" alt="Login" width="230"/>
@@ -28,7 +26,7 @@ Tampilan antarmuka aplikasi:
   <img src="screenshots/home.png" alt="Home" width="230"/>
 </p>
 
-Authentication Firebase:
+## 🔧 Konfigurasi Firebase
 
 <p align="center">
   <img src="screenshots/authfirebase.png" alt="Login" width="690" align="center"/>
