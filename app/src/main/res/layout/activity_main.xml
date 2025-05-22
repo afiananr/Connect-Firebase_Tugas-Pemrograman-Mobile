@@ -22,7 +22,7 @@
         android:id="@+id/txtLoginTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="My Firebass App Module"
+        android:text="My Firebase App Module"
         android:textSize="25sp"
         android:textStyle="bold"
         android:textColor="#333333"

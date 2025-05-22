@@ -12,9 +12,10 @@ class HomeActivity : AppCompatActivity() {
     private lateinit var binding: ActivityHomeBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
         val user = FirebaseAuth.getInstance().currentUser
-        binding.txtWelcome.text = "Selamat datang,${user?.email}"
+        binding.txtWelcome.text = "Selamat datang, ${user?.email}"
     }
 }
